@@ -73,6 +73,10 @@ nav .nav-link {
 	color: #444444;
 }
 
+.nav-ajax-left {
+color: #fff!important;
+}
+
 .fakelink, .fakelink:visited {
 	color: #444;
 }
