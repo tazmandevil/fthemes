@@ -1,9 +1,12 @@
 
-Friendica Themes by Tony Baldwin
+Some of these were Friendica Themes by Tony Baldwin
 https://free-haven.org/profile/tony
-
+which I'm now maintaining.
 These themes and more stuff for Friendica by Tony:
 http://tonyb.us/friendihax
+
+The remainder are new themes by me, Tazman Deville
+https://friend.tazmandevil.info/profile/tazman
 
 Site Admins:
 To install, download the tarball and move to $YOURFRIENDICADIRECTORY/view/theme/
@@ -25,3 +28,4 @@ Included themes:
   * Whovian - If you don't speak Gallifreyan, you wouldn't understand
   * Paper - simple, clean, with parchment background
   * Bubbly - serene, soothing, aquatic blues, rounded, bubbly corners
+  * Tazman Theme - a bacony good theme by Tazman.
