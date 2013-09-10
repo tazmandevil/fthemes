@@ -95,8 +95,9 @@ color: #fff!important;
 
 code {
   font-family: Helvetica;
-  background:#f9f3d0!important;
-  color:#111 !important;
+  border-left: 4px solid #7e0000;
+  background:#000!important;
+  color:#ffe0ee!important;
 }
 
 blockquote {
